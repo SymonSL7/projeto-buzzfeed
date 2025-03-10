@@ -8,13 +8,13 @@ Neste projeto foi desenvolvido um clone do BuzzFeed, usando Angular.
 ## 🛠️ Habilidades
 
 
-![HTML](https://img.shields.io/badge/HTML-0077B5?style=for-the-badge&logo=html&logoColor)
+![HTML](https://img.shields.io/badge/HTML-0077B5?style=for-the-badge&logo=html5&logoColor)
 
 ![CSS](https://img.shields.io/badge/CSS-0077B5?style=for-the-badge&logo=css&logoColor)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0077B5?style=for-the-badge&logo=javascript&logoColor)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0077B5?style=for-the-badge&logo=typescript&logoColor)
+![TypeScript](https://img.shields.io/badge/TypeScript-0077B5?style=for-the-badge&logo=typescript&logoColor=FFF)
 
 ![Angular](https://img.shields.io/badge/Angular-0077B5?style=for-the-badge&logo=angular&logoColor)
 
