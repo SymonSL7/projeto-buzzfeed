@@ -7,6 +7,7 @@ Neste projeto foi desenvolvido um clone do BuzzFeed, usando Angular.
 
 ## 🛠️ Habilidades
 
+
 ![HTML](https://img.shields.io/badge/HTML-0077B5?style=for-the-badge&logo=html&logoColor)
 
 ![CSS](https://img.shields.io/badge/CSS-0077B5?style=for-the-badge&logo=css&logoColor)
